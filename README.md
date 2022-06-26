@@ -2,7 +2,7 @@
 
 ## Usage
 INFILE.bmp is the name of the input image and OUTFILE.bmp is the name of the resulting image after a filter has been applied.
-g - grayscale
+<li> g - grayscale </li>
 r - reflect
 b - blur
 e - edge
