@@ -10,6 +10,7 @@ INFILE.bmp is the name of the input image and OUTFILE.bmp is the name of the res
 </ol>
 
 <ul>
+  <li><code> $ make filter </code></li>
   <li><code> $ ./filter -g INFILE.bmp OUTFILE.bmp </code></li>
   <li><code> $ ./filter -r INFILE.bmp OUTFILE.bmp </code></li>
   <li><code> $ ./filter -b INFILE.bmp OUTFILE.bmp </code></li>
